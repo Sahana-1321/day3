@@ -1,0 +1,48 @@
+    #web{
+        background-color:#4C0033;
+        width: 100%;
+        height: 100vh;
+        
+        
+    }
+    h1{
+        color:antiquewhite;
+        background-color:#790252 ;
+
+        border: 5px solid #06090a;
+        border-radius: 50px;
+        padding: 20px;
+        text-align: center;
+    } 
+    #def{
+        color:#F5EDDC;
+        background-color:#AF0171 ;
+
+        border: 2px solid rgb(240, 225, 224);
+        border-radius: 50px;
+        padding: 20px;
+        width: 600px;
+        text-align: center;
+    } 
+    .hij{
+        color:rgb(244, 140, 113);
+        background-color:#EBC7E8;
+
+        border: 2px solid rgb(5, 5, 5);
+        border-radius: 50px;
+        padding: 20px; 
+        margin: 20px; 
+        width: 200px; 
+        height: 50px;
+
+        transition: 0.5s;
+         
+    }
+
+    .hij:hover{
+        background-color: #AF0171;
+        width: 220px;
+        height: 55px;
+        border: 5px dotted #EB1D36;
+    }
+
